@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dev": "wails dev",
+    "generate": "wails generate module"
+  }
+}
